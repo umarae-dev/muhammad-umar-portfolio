@@ -124,10 +124,11 @@ All systems are actively developed and deployed in live environments.
 - I convert ideas into working products quickly
 
 ---
-
 ## 📄 Resume
 
-📥 Download CV: `resume.pdf`
+👉 Click to view/download CV:
+
+[📥 Download Resume](./resume.pdf)
 
 ---
 
